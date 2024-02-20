@@ -53,7 +53,7 @@ const Slider = ({ products, region }) => {
                       {product.title}
                     </p>
                     <div className="flex items-center gap-x-2 text-ui-fg-muted">
-                      <p>{product.price.calculated_price}</p>
+                      <p>{product?.price?.calculated_price}</p>
                     </div>
                   </div>
                 </LocalizedClientLink>

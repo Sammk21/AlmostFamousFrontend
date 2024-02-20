@@ -31,7 +31,7 @@ const nextConfig = withStoreConfig({
       },
       {
         protocol: "https",
-        hostname: "www.zara.net",
+        hostname: "admin.fereclaurus.com",
       },
     ],
   },
