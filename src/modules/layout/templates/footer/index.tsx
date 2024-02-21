@@ -39,7 +39,7 @@ export default async function Footer() {
           <div
             data-scroll
             data-scroll-speed="0.2"
-            className="left xsmall:text-[10vw] text-[15vw] justify-center sm:py-1 py-1 px-3 tracking-tighter flex sm:flex-col "
+            className="left xsmall:text-[9vw] text-[12vw] justify-center sm:py-1 py-1 px-3 tracking-tighter flex sm:flex-col "
           >
             <span className="lg:leading-normal leading-[6rem]">Almost</span>
             <span className="leading-[6rem] sm:pl-12">Famous</span>
